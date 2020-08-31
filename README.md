@@ -1,5 +1,7 @@
 # Geolcodes repository
 
+This repository contains an initial dictionary of defining geolcodes and labels.
+
 ## CSV columns:
 
 Multilanguage lookup tables with geolcodes of all the classes in CSV format. 
